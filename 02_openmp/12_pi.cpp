@@ -1,4 +1,6 @@
 #include <cstdio>
+/*include openmp*/
+#include <omp.h>
 
 int main() {
   int n = 10;
