@@ -1,6 +1,8 @@
 #include <cstdio>
 #include <cstdlib>
 #include <vector>
+/*include openmp*/
+#include <omp.h>
 
 int main() {
   int n = 50;
